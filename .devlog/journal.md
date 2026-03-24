@@ -1,1 +1,2 @@
 - 2026-03-23 16:23 | tweak: ajuste menor (#9)
+- 2026-03-24 15:14 | update: progreso (#11)
