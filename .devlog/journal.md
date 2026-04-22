@@ -3,3 +3,4 @@
 - 2026-04-03 16:56 | notes: ideas pendientes (#17)
 - 2026-04-12 14:50 | tweak: ajuste menor (#31)
 - 2026-04-21 20:17 | docs: nota de avance (#44)
+- 2026-04-22 13:06 | fix: typo en notas (#46)
