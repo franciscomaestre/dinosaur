@@ -5,3 +5,4 @@
 - 2026-04-21 20:17 | docs: nota de avance (#44)
 - 2026-04-22 13:06 | fix: typo en notas (#46)
 - 2026-04-23 15:19 | fix: typo en notas (#47)
+- 2026-05-03 19:48 | notes: ideas pendientes (#61)
