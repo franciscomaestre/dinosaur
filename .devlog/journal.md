@@ -6,3 +6,4 @@
 - 2026-04-22 13:06 | fix: typo en notas (#46)
 - 2026-04-23 15:19 | fix: typo en notas (#47)
 - 2026-05-03 19:48 | notes: ideas pendientes (#61)
+- 2026-05-13 16:07 | tweak: ajuste menor (#74)
