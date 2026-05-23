@@ -8,3 +8,4 @@
 - 2026-05-03 19:48 | notes: ideas pendientes (#61)
 - 2026-05-13 16:07 | tweak: ajuste menor (#74)
 - 2026-05-22 15:31 | refactor: reorganizar apuntes (#85)
+- 2026-05-23 16:13 | update: progreso (#86)
