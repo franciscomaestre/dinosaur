@@ -10,3 +10,4 @@
 - 2026-05-22 15:31 | refactor: reorganizar apuntes (#85)
 - 2026-05-23 16:13 | update: progreso (#86)
 - 2026-06-01 12:37 | docs: nota de avance (#97)
+- 2026-06-02 20:00 | refactor: reorganizar apuntes (#98)
